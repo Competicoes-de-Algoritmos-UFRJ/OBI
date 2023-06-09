@@ -21,7 +21,6 @@ int main(){
             resp++;
         }
     }
-
     cout << resp << endl;
     return 0;
 }
