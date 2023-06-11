@@ -34,7 +34,7 @@ for i in range(p):
             valido = 0
             break
         
-    if valido:
+    if valido==1:
         resp+=1
 
 print(resp)
