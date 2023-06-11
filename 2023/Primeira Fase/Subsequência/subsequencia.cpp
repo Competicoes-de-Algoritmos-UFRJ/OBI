@@ -32,6 +32,5 @@ int main(){
     }else{
         cout << 'N' << endl;
     }
-
     return 0;
 }
