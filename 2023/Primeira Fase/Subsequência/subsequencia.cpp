@@ -23,7 +23,6 @@ int main(){
         if(sa[pont_a] == sb[pont_b]){
             pont_b++;
         }
-
         pont_a++;
     }
 
